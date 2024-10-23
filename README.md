@@ -37,7 +37,7 @@ This list is in the public domain.
     - Brian Ward
     - Read: [x]
 - Introduction to System Programming in Linux
-    -Stewart N. Weiss
+    - Stewart N. Weiss
 - Operating Systems: Design and Implementation
     - Andrew S. Tanenbaum, Albert S. Woodhull
 - Operating Systems: Three Easy Pieces
